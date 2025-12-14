@@ -324,7 +324,7 @@ If this project helps you:
 ## 📧 Contact
 
 - **Author**: Sathish
-- **GitHub**: [@https://github.com/iam-archie/)
+- **GitHub**: @https://github.com/iam-archie/
 - **Email**: sathishaiops@gmail.com
 
 ## 💡 Inspiration
